@@ -1,7 +1,7 @@
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Download, ComputerIcon as Windows, Apple, LaptopIcon as Linux } from "lucide-react" // Assuming Windows, Apple, Linux icons are available or using generic Download
+import { Download, ComputerIcon as Windows, Apple, LaptopIcon as Linux, ArrowLeft } from "lucide-react" // Import ArrowLeft
 
 export default function DownloadJarvynIDE() {
   return (
@@ -74,6 +74,13 @@ export default function DownloadJarvynIDE() {
               </Button>
             </CardContent>
           </Card>
+        </div>
+
+        {/* Add Go to Home option */}
+        <div className="mt-12 text-center">
+          <Link href="/" className="text-primary hover:underline text-lg flex items-center justify-center">
+            <ArrowLeft className="mr-2 h-5 w-5" /> Go back to Home
+          </Link>
         </div>
       </div>
     </div>
