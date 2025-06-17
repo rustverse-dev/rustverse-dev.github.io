@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export', // Enables static HTML export
-  basePath: '/TrusteD-V', // Adjust this to your GitHub repository name if different
+  basePath: '/', // Adjust this to your GitHub repository name if different
   eslint: {
     ignoreDuringBuilds: true,
   },
