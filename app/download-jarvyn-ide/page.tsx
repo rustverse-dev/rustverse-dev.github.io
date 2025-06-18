@@ -27,7 +27,7 @@ export default function DownloadJarvynIDE() {
                 Download the installer for Windows (64-bit).
               </CardDescription>
               <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground" asChild>
-                <Link href="https://raw.githubusercontent.com/abhishekdhamale/main/docs/download-file/jarvyn-ide-windows">
+                <Link href="https://raw.githubusercontent.com/rustverse-dev/rustverse-dev.github.io/refs/heads/main/docs/download-file/jarvyn-ide-windows">
                   <Download className="mr-2 h-5 w-5" />
                   Download for Windows
                 </Link>
@@ -47,7 +47,7 @@ export default function DownloadJarvynIDE() {
                 Download the disk image for macOS (Intel/Apple Silicon).
               </CardDescription>
               <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground" asChild>
-                <Link href="https://raw.githubusercontent.com/abhishekdhamale/main/docs/download-file/jarvyn-ide-macos">
+                <Link href="https://raw.githubusercontent.com/rustverse-dev/rustverse-dev.github.io/refs/heads/main/docs/download-file/jarvyn-ide-macos">
                   <Download className="mr-2 h-5 w-5" />
                   Download for macOS
                 </Link>
@@ -67,7 +67,7 @@ export default function DownloadJarvynIDE() {
                 Download the AppImage or .deb package for Linux (64-bit).
               </CardDescription>
               <Button className="w-full bg-primary hover:bg-primary/90 text-primary-foreground" asChild>
-                <Link href="https://raw.githubusercontent.com/abhishekdhamale/main/docs/download-file/jarvyn-ide-linux">
+                <Link href="https://raw.githubusercontent.com/rustverse-dev/rustverse-dev.github.io/refs/heads/main/docs/download-file/jarvyn-ide-linux">
                   <Download className="mr-2 h-5 w-5" />
                   Download for Linux
                 </Link>
