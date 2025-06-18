@@ -162,10 +162,10 @@ export default function RiscVPlatform() {
   ]
 
   const partners = [
-    { name: "IIT Madras", type: "Academic", logo: "/placeholder.svg?height=60&width=120" },
-    { name: "CDAC (Vega Project)", type: "Government", logo: "/placeholder.svg?height=60&width=120" },
-    { name: "Mindgrove", type: "Startup", logo: "/placeholder.svg?height=60&width=120" },
-    { name: "IIT Bombay", type: "Academic", logo: "/placeholder.svg?height=60&width=120" },
+    { name: "IIT Madras", type: "Academic", logo: "/images/iit-m.png?height=60&width=120" },
+    { name: "CDAC (Vega Project)", type: "Government", logo: "/images/cdac.png?height=60&width=120" },
+    { name: "Mindgrove", type: "Startup", logo: "/images/mindgrove.png?height=60&width=120" },
+    { name: "IIT Bombay", type: "Academic", logo: "/images/iit-b.png?height=60&width=120" },
   ]
 
   return (

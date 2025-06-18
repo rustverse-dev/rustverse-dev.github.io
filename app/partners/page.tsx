@@ -10,17 +10,17 @@ const academicPartners = [
   {
     name: "IIT Madras",
     description: "Leading research in RISC-V processor design (Shakti) and embedded systems.",
-    logo: "/placeholder.svg?height=80&width=160",
+    logo: "/images/iit-m.png?height=80&width=160",
   },
   {
     name: "IIT Bombay",
     description: "Collaborating on advanced compiler optimizations and secure software architectures.",
-    logo: "/placeholder.svg?height=80&width=160",
+    logo: "/images/iit-b.png?height=80&width=160",
   },
   {
     name: "IISc",
     description: "Pioneering work in AI/ML hardware acceleration and secure computing.",
-    logo: "/placeholder.svg?height=80&width=160",
+    logo: "/images/iisc.png?height=80&width=160",
   },
 ]
 
@@ -28,22 +28,22 @@ const startupPartners = [
   {
     name: "Mindgrove",
     description: "Developing innovative RISC-V SoCs for various applications, including Vision AI.",
-    logo: "/placeholder.svg?height=80&width=160",
+    logo: "/images/mindgrove.png?height=80&width=160",
   },
   {
     name: "SecureSi",
     description: "Specializing in hardware-rooted security solutions for embedded devices.",
-    logo: "/placeholder.svg?height=80&width=160",
+    logo: "/images/securesi.png?height=80&width=160",
   },
   {
     name: "Incore",
     description: "Focusing on high-performance RISC-V core designs and verification.",
-    logo: "/placeholder.svg?height=80&width=160",
+    logo: "/images/incore.png?height=80&width=160",
   },
   {
     name: "Tweedgolf",
     description: "Innovating in IoT and connected devices with a focus on secure embedded software.",
-    logo: "/placeholder.svg?height=80&width=160",
+    logo: "/images/tweedgolf.png?height=80&width=160",
   },
 ]
 
