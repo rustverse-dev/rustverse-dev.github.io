@@ -85,7 +85,7 @@ const blogPostsContent: {
     author: "IDE Development Lead",
     content: [
       "A truly integrated development environment (IDE) goes beyond just a code editor; it seamlessly connects all aspects of the development lifecycle. Our vision for a Vertically Integrated Rust IDE for RISC-V aims to provide an unparalleled developer experience, from writing code to debugging on hardware.",
-      "This blog post explores the architectural decisions and technical challenges involved in building such an IDE. We discuss the benefits of an SLM (Software Lifecycle Management)-based approach, which allows for deep integration with our custom Rust compiler toolchain, secure bootloaders, and hardware abstraction layers. The goal is to minimize context switching and provide real-time feedback throughout the development process.",
+      "This blog post explores the architectural decisions and technical challenges involved in building such an IDE. We discuss the benefits of an SLM (Small Language Model)-based approach, which allows for deep integration with our custom Rust compiler toolchain, secure bootloaders, and hardware abstraction layers. The goal is to minimize context switching and provide real-time feedback throughout the development process.",
       "Key features include intelligent code completion tailored for embedded Rust and RISC-V assembly, integrated debugging with hardware probes, project management, and built-in simulation capabilities. This is not just an IDE; it's a complete development ecosystem.",
     ],
   },
