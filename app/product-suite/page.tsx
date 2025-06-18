@@ -38,7 +38,7 @@ const productSuiteItems = [
   },
   {
     icon: <Code2 className="h-8 w-8" />,
-    title: "Vertically Integrated IDE (SLM-based)",
+    title: "Vertically Integrated IDE  ",
     description: "A powerful, web-based IDE designed for seamless Rust and RISC-V development.",
     slug: "slm-based-ide",
   },

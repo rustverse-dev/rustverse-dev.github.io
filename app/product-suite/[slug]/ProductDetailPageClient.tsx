@@ -85,7 +85,7 @@ const productDetails: {
     ],
   },
   "slm-based-ide": {
-    title: "Vertically Integrated IDE (SLM-based)",
+    title: "Vertically Integrated IDE  ",
     description: "A powerful, web-based IDE designed for seamless Rust and RISC-V development.",
     longDescription:
       "Our Vertically Integrated Development Environment (IDE) is built on a cutting-edge SLM (Small Language Model) framework, providing a unified and intuitive experience for RISC-V + Rust development. It offers advanced features like intelligent code completion, integrated debugging, project management, and seamless integration with our toolchains and hardware. Being web-based, it offers unparalleled accessibility and collaboration capabilities.",
